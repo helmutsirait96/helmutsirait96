@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Helmut%20Sirait&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Web%20Developer&descAlign=60&descAlignY=44")
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%20👋&fontAlign=50&fontAlignY=40&color=gradient)
 
+
+## 👨🏻‍💻 About Me
 ```yaml
 name: Helmut Sirait
 located_in: Medan, North Sumatera Indonesia
@@ -37,10 +39,6 @@ currently_learning: ["Boostrap, Laravel, and React Native, Vanila JavaScript, PH
 2026 Goals: ["Create some Projects and find a job."]
 hobbies: ["Football", "Cinema", "Art"]
 ```
-
-## 💬 Social
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/helmutsirait)
 
 ## 🚀  Some Tools I Have Used and Learned
 
@@ -94,6 +92,11 @@ hobbies: ["Football", "Cinema", "Art"]
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+## 📈 My GitHub  Stats
+
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=helmutsirait96&theme=dark)
 
 
 
