@@ -1,9 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff75c3&duration=4000&lines=Hi+There!+👋;+I'm+Helmut+Sirait!;from+Indonesia" />
 </h1>
-<div>
-  <img align="right" width="19%" src="https://github.com/helmutsirait96/images/blob/master/Frieren_holding_HTML_and_CSS_book-removebg-preview.png?raw=true">
-</div>
 
 <p align="left"> A <span style="color: #ff75c3; font-weight: bold;">Frontend Web Developer</span> who focuses on creating <span style="color: #ff75c3; font-weight: bold;">interactive, responsive, and user-friendly user interfaces.</span> I really like JavaScript logic and web performance optimization.</p>
 
