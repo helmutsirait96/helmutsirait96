@@ -2,14 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff75c3&duration=4000&lines=Hi+There!+👋;+I'm+Helmut+Sirait!" />
 </h1>
 
-<p align="center" >A Frontend Web Developer</span> who focuses on creating interactive, responsive, and user-friendly user interfaces.</span> I really like JavaScript logic and web performance optimization.</p>
+<p align="center">A Frontend Web Developer</span> who focuses on creating interactive, responsive, and user-friendly user interfaces.</span> I really like JavaScript logic and web performance optimization.</p>
+
 
 ✨ Student of life :) \
-🌱 Learn and develop by **[FreeCodeCamp](https://www.freecodecamp.org/)** \
-💪 likes to exercise for inspiration \
- 💡 learning about Digital Illustration 
-<br>
-
+🏗️ Currently building a web foundation through curriculum [FreeCodeCamp](https://www.freecodecamp.org/) \
+💪 Building a better version of myself, one commit at a time. \
+💡  Coding with logic, drawing with heart
 <hr>
 
 <h3 align="left"> 🛠️ Expertise & Technology </h3>
