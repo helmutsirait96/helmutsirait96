@@ -15,23 +15,21 @@
 <h3 align="left"> 🛠️ Expertise & Technology </h3>
 <br>
 
-* **Languages:** HTML5, CSS3, JavaScript (ES6+)
+* **Languages:** HTML5, CSS3, JavaScript (ES6+),MySql, PHP
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+
 * **Framework/Library:** React.js, Vue.js, Tailwind CSS
-* **Tools:** Git & GitHub, VS Code, NPM/Vite
+<img src="https://skillicons.dev/icons?i=sass,jquery,tailwind,bootstrap,react"/>
+
+* **Framework/Design:** Figma, Photoshop
+<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
+
+* **Tools:** Git & GitHub, VS Code, Gitlab, BitBucket, Sublime, VSCode
+<img src="https://skillicons.dev/icons?i=github,git,gitlab,bitbucket,sublime,vscode"/>
+
 * **Others:** Integration API, Web Security (reCAPTCHA), Responsive Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
-  <img src="https://skillicons.dev/icons?i=sass,jquery,tailwind,bootstrap,react"/> 
-  <img src="https://skillicons.dev/icons?i=figma,photoshop"/>
-  <img src="https://skillicons.dev/icons?i=github,git,gitlab,bitbucket"/>
-  <img src="https://skillicons.dev/icons?i=windows,linux"/>
-  
-</p>
-
 <hr>
-
 <h3 align="left">⚡️ GitHub Statistics </h3>
-
 <br>
 
 <div align=left>
