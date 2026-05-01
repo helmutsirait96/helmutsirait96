@@ -36,7 +36,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/helmutsirait96?cardType=github&theme=radical&fontFamily=BlinkMacSystemFont&preferLogin=true)](https://git.io/awesome-stats-card)
 <br>
 <br>
-![Bahasa yang Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=helmutsirait96&layout=compact&theme=radical)
+
 
 </div>
 <hr>
