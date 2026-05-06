@@ -53,9 +53,12 @@
 
 <h3> 📫 Let's Connect! </h3>
 
-* **LinkedIn:** [linkedin.com/in/helmutsirait](https://linkedin.com/in/helmutsirait)
-* **Portofolio:** [helmutsirait96.github.io](https://helmutsirait96.github.io)
+* **LinkedIn:** [helmutsirait](https://linkedin.com/in/helmutsirait)
+* **Portofolio:** [helmutsirait96](https://helmutsirait96.github.io)
+* **Facebook:** [Helmut Sirait](https://facebook.com/helmutsirait)
 * **Email:** [helmutsirait77@gmail.com]
+* **freeCodeCamp:** [Helmut Sirait](https://facebook.com/helmutsirait)
+
 
 
 
