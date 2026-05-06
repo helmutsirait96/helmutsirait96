@@ -57,7 +57,7 @@
 * **Portofolio:** [helmutsirait96](https://helmutsirait96.github.io)
 * **Facebook:** [Helmut Sirait](https://facebook.com/helmutsirait)
 * **Email:** [helmutsirait77@gmail.com]
-* **freeCodeCamp:** [Helmut Sirait](https://facebook.com/helmutsirait)
+* **freeCodeCamp:** [Helmut Sirait](https://freecodecamp.com/helmutsirait)
 
 
 
