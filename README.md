@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Helmut Sirait</h1>
-<h2 align="center">Frontend Web Developer</h2>
+# Hi 👋, I'm Helmut Sirait</h1>
+## Frontend Web Developer
 
-- ✨ Student of life :) 
-- 🏗️ Currently building a web foundation through curriculum [FreeCodeCamp](https://www.freecodecamp.org/)
-- 💪 Building a better version of myself, one commit at a time. 
-- 💡  Coding with logic, drawing with heart
+✨ Student of life :) \
+💻 Currently building a web foundation through curriculum [FreeCodeCamp](https://www.freecodecamp.org/) \
+💪 Building a better version of myself, one commit at a time. \
+💡  Coding with logic, drawing with heart
 <hr>
 
 <h3 align="left"> 🛠️ Languages and Tools</h3>
@@ -35,7 +35,7 @@
 <h3> 📫 Let's Connect! </h3>
 
 * **LinkedIn:** [helmutsirait](https://linkedin.com/in/helmutsirait)
-* **Portofolio:** [helmutsirait96](https://helmutsirait96.github.io)
+* **Portofolio:** [helmutsirait96](https://hsirait77.github.io)
 * **Facebook:** [Helmut Sirait](https://facebook.com/helmutsirait)
 * **Email:** [helmutsirait77@gmail.com]
 * **freeCodeCamp:** [Helmut Sirait](https://freecodecamp.com/helmutsirait)
@@ -47,3 +47,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+
