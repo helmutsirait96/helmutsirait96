@@ -31,7 +31,12 @@ A passionate developer who loves building clean, user-friendly web applications.
 
 ## 📫 Let's Connect!
 
-[🌐 Portfolio](https://hsirait77.github.io) • [💼 LinkedIn](https://linkedin.com/in/hsirait77) • [🐦 Twitter](https://twitter.com/helmutsirait)
+| Platform | Link |
+| :--- | :--- |
+| **📧 Email** | [helmutsirait77@gmail.com](mailto:helmutsirait77@gmail.com) |
+| **💼 LinkedIn** | [hsirait77](https://linkedin.com/in/hsirait77) |
+| **🖥️ Portfolio** | [hsirait77.github.io](https://hsirait77.github.io) |
+| **🐦 X** | [helmutsirait](https://x.com/helmutsirait) |
 
 
 
