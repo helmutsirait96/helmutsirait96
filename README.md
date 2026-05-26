@@ -2,7 +2,8 @@
 #  Hello, World! I'm Helmut Sirait 👋
 
 A passionate developer who loves building clean, user-friendly web applications. Currently focusing on modern JavaScript frameworks and refining user experiences.
-<h3 align="left"> 🛠️ Languages and Tools</h3>
+
+## 🛠️ Languages and Tools
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -28,24 +29,14 @@ A passionate developer who loves building clean, user-friendly web applications.
     *   **Links:** [Code](https://github.com/username/project-link)
 
 
+## 📫 Let's Connect!
 
-<br>
-<hr>
-
-<h3> 📫 Let's Connect! </h3>
-
-* **LinkedIn:** [helmutsirait](https://linkedin.com/in/helmutsirait)
-* **Portofolio:** [helmutsirait96](https://hsirait77.github.io)
-* **Facebook:** [Helmut Sirait](https://facebook.com/helmutsirait)
-* **Email:** [helmutsirait77@gmail.com]
-* **freeCodeCamp:** [Helmut Sirait](https://freecodecamp.com/helmutsirait)
+[🌐 Portfolio](https://hsirait77.github.com) • [💼 LinkedIn](https://linkedin.com/in/helmutsirait77) • [🐦 Twitter](https://twitter.com/helmutsirait)
 
 
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+
 
 
