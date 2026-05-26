@@ -1,25 +1,13 @@
 
-<div align="center">
-  <h1>👋 Hi, I'm Helmut Sirait</h1>
-  <p><strong>Front-End Designer | Full-Stack Web Developer</strong></p>
+#  Hello, World! I'm Helmut Sirait 👋
 
-  <!-- Baris teks animasi mengetik (Opsional) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39BDF8&center=true&vCenter=true&width=500&lines=Building+responsive+web+apps;Vanilla+JS+enthusiast;Turning+designs+into+clean+code" alt="Typing SVG" />
-</div>
-
----
-
-✨ Student of life :) \
-💻 Currently building a web foundation through curriculum [FreeCodeCamp](https://www.freecodecamp.org/) \
-💪 Building a better version of myself, one commit at a time. \
-💡  Coding with logic, drawing with heart
-<hr>
-
+A passionate developer who loves building clean, user-friendly web applications. Currently focusing on modern JavaScript frameworks and refining user experiences.
 <h3 align="left"> 🛠️ Languages and Tools</h3>
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sass,jquery,tailwind,bootstrap,react" />
-<img src="https://skillicons.dev/icons?i=figma,photoshop,github,git,gitlab,bitbucket,sublime,vscode"/>
-<hr>
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
 
 
 ## 🚀 Highlighted Projects
